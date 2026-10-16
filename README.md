@@ -1,3 +1,31 @@
+# 🚀 TechNexaStudio | Full Stack & Automation Portfolio
+
+Welcome! I am a Full Stack Developer & Automation Specialist. Below are live applications of my recent work across Web Development, AI Integration, Python Scraping, and Bug Fixing.
+
+---
+
+### 🌐 Live Portfolio Applications
+
+* 💻 **Full Stack Web Application**  
+  *Scalable React & Node.js Web Application*  
+  🔗 [Click Here to View Live Application](https://technexafullstackportfolio.netlify.app)
+
+* 🛠️ **Codebase Diagnostics & Bug Fixing**  
+  *High-Precision Bug Fixing, Performance Optimization & Refactoring*  
+  🔗 [Click Here to View Live Application](https://technexabugsfixportfolio.netlify.app)
+
+* 🤖 **AI Chatbot Integration**  
+  *Smart AI Chatbots & Custom Conversational Solutions*  
+  🔗 [Click Here to View Live Application](https://technexaaichatbotportfolio.netlify.app)
+
+* 🐍 **Python Web Scraping & Automation**  
+  *Data Extraction, Web Automation Scripts & Crawlers*  
+  🔗 [Click Here to View Live Application](https://technexapythonscraperportfolio.netlify.app)
+
+---
+
+### 📬 Contact & Hire
+If you need custom software development, web automation, or quick bug fixes, feel free to reach out via Reddit DM or open an issue here!
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
